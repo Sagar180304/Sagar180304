@@ -28,7 +28,6 @@
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/golang.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/firebase.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
@@ -37,10 +36,7 @@
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/tensorflow.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/opencv.png" width=45 height=45></img>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width=45 height=45></img>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" width=45 height=45></img>
    <img src="https://img.icons8.com/fluency/96/000000/docker.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/kubernetes.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/jenkins.png" width=45 height=45></img>
