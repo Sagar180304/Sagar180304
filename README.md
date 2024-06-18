@@ -3,18 +3,18 @@
   </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Sagar180304!
-<h3 align="center">I'm a Full Stack Developer and Devops Enthusiast </h3>
+<h3 align="center">I'm Competitive Programmer and  Full Stack Developer  </h3>
 
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DSA and DevOps Tools**
+- 🌱 I’m currently learning **DSA**
  
 - 🔥 I'm also enhancing myself in the field of **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
-- 📫 Reach out to me at my **<a href="mailto:sagar180304@gmail.com">Email</a>**
+- 📫 Reach out to me at my **<a href="mailto:shashikiran1803@gmail.com">Email</a>**
  
 ## 🚀 Languages and Tools:
 
