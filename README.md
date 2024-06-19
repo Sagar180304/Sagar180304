@@ -20,7 +20,7 @@
 
 <p align="left"> 
    <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/typescript.png" width=45 height=45></img>
+<!--    <img src="https://img.icons8.com/color/96/000000/typescript.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/css3.png" width=45 height=45></img>
@@ -32,14 +32,14 @@
    <img src="https://img.icons8.com/color/96/000000/firebase.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
    <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=45 height=45></img>
-   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=45 height=45></img>
+<!--    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=45 height=45></img>
+<!--    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/opencv.png" width=45 height=45></img>
+<!--    <img src="https://img.icons8.com/color/96/000000/opencv.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/fluency/96/000000/docker.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/kubernetes.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/jenkins.png" width=45 height=45></img>
+<!--    <img src="https://img.icons8.com/color/96/000000/jenkins.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width=45 height=45></img>
    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/git.png" width=45 height=45></img>
@@ -47,7 +47,7 @@
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=45 height=45></img>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=45 height=45></img>
+<!--    <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img>
    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
 </p>
